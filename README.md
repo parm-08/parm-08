@@ -1,241 +1,204 @@
-<h1 align="center">Hi 👋, I'm Parmpreet Kaur</h1>
+      <h1 align="center">Hi 👋, I'm Parmpreet Kaur</h1>
 
-<h3 align="center">
-🚀 AI Engineer in Progress | Machine Learning | Data Science | Generative AI
-</h3>
+<h3 align="center">AI • ML • Data Science • Gen AI Enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+Real-World+AI+Projects;Learning+LLMs+%7C+RAG+%7C+GenAI;Future+AI+Engineer+🚀" />
-</p>
+
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=parm-08&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/parm-08?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/parm-08?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;AI+%7C+ML+%7C+Data+Science;Learning+Gen+AI+%26+LLMs;Building+Cool+Projects+Everyday;Future+Data+Scientist+%F0%9F%9A%80" alt="Typing SVG" />
 
 </p>
 
----
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-# 💫 About Me
-
-🎓 B.Tech Computer Science Engineering Student
-
-🤖 Passionate about Artificial Intelligence and Machine Learning.
-
-🧠 Currently learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Natural Language Processing
-- Data Science
-
-💻 I love building intelligent applications with Python.
-
-🚀 Goal
-
-Become an AI Engineer / Data Scientist working on impactful AI products.
 
 ---
 
-# 🚀 What I'm Working On
 
-- 🤖 AI Applications
-- 🧠 LLMs
-- 🔎 RAG Pipelines
-- 📄 PDF Chatbots
-- 🎨 AI Image Generation
-- 📊 Data Analytics
-- ⚡ Backend Development
 
----
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-# 💻 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql"/>
-</p>
 
----
+## 👩‍💻 About Me
 
-# 🌐 Web Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,php"/>
-</p>
 
----
+- 🎓 B.Tech Computer Science Engineering Student  
 
-# 🤖 AI | ML | Data Science
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+- 🧠 Currently learning **LLMs, RAG, NLP & Generative AI**
 
-<br><br>
+- 📊 Interested in **Data Analysis & Intelligent Systems**
 
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-blueviolet?style=for-the-badge"/>
-</p>
+- 💻 Love building real-world projects using Python & Web Technologies
+
+- 🚀 Goal: Become a **Data Scientist / AI Engineer**
+
+
+
+<br>
+
+
 
 ---
 
-# 🛠 Tools
 
-<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql,firebase,linux"/>
+## 🌟 Interests
+
+
+
+- 🤖 Artificial Intelligence & Machine Learning
+
+- 🧠 Natural Language Processing (NLP)
+
+- ✨ Generative AI & Large Language Models (LLMs)
+
+- 🔎 Retrieval-Augmented Generation (RAG)
+
+- 📊 Data Analysis & Visualization
+
+- 🛠 Backend Development
+
+- 💡 Problem Solving & DSA
+
+
+
+---
+
+
+
+# 🛠 Tech Stack
+
+
+
+## 💻 Languages
+
+
+
+<p>
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,sql" />
 
 </p>
 
----
 
-# 📚 Currently Learning
 
-- 🧠 Large Language Models
-- 🔎 Retrieval-Augmented Generation
-- 🤖 AI Agents
-- 📊 Machine Learning
-- 📈 Data Science
-- 🗄 SQL
-- ⚡ LangChain
-- 🧩 Vector Databases
+## 🌐 Web Development
 
----
 
-# 📈 GitHub Stats
 
-<p align="center">
+<p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parm-08&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parm-08&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,php" />
 
 </p>
 
----
 
-# 📊 Most Used Languages
 
-<p align="center">
+## 🤖 AI / ML / Data Science
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parm-08&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
 
----
+<p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=parm-08&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
 </p>
 
----
 
-# 📈 Contribution Graph
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parm-08&theme=tokyo-night"/>
+  <img src="https://img.shields.io/badge/NLP-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white"/>
 
-</p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
 
----
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge"/>
 
-# 🐍 Contribution Snake
+  <img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge"/>
 
-<p align="center">
+  <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://img.shields.io/badge/Data%20Science-red?style=for-the-badge"/>
 
 </p>
 
+
+
 ---
 
-# 💬 Dev Quote
+
+
+## 📚 Currently Learning
+
+
+
+- 🧠 Large Language Models (LLMs)
+
+- 🔎 Retrieval-Augmented Generation (RAG)
+
+- 🤖 Generative AI Applications
+
+- 📊 Advanced Machine Learning
+
+- 🗄 SQL for Data Analytics
+
+
+
+---
+
+
+
+
+
+
+
+## 🐍 Contribution Snake
+
+
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </p>
 
----
 
-# ⚡ Random Joke
-
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 💻 Coding Time
 
-<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parm-08&theme=tokyonight"/>
+## 🌐 Connect With Me
 
-</p>
 
----
 
-# 🎯 Fun Fact
+<p align="left">
 
-```cpp
-while(!success)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
 
----
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/parmpreet/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/parm-08" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+<a href="https://github.com/parm-08" target="blank">
+
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+
 </a>
 
 </p>
 
+
+
 ---
 
-<h3 align="center">
 
-⭐ Thanks for visiting my profile ⭐
 
-</h3>
 
-<p align="center">
 
-<i>"Keep Learning • Keep Building • Keep Growing 🚀"</i>
-
-</p>
