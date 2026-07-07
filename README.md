@@ -1,71 +1,62 @@
-````markdown
-<!-- Animated Banner -->
-<h1 align="center">
-Hi 👋 I'm Parmpreet Kaur
-</h1>
+<h1 align="center">Hi 👋, I'm Parmpreet Kaur</h1>
 
 <h3 align="center">
 🚀 AI Engineer in Progress | Machine Learning | Data Science | Generative AI
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+GenAI+Projects;Learning+LLMs+%26+RAG;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+Real-World+AI+Projects;Learning+LLMs+%7C+RAG+%7C+GenAI;Future+AI+Engineer+🚀" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=parm-08&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/parm-08?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/parm-08?style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=parm-08&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/parm-08?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/parm-08?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 # 💫 About Me
 
 🎓 B.Tech Computer Science Engineering Student
 
-💡 Passionate about solving real-world problems using AI.
+🤖 Passionate about Artificial Intelligence and Machine Learning.
 
-🤖 Currently exploring
+🧠 Currently learning
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- NLP
-- Generative AI
-- Machine Learning
+- AI Agents
+- Natural Language Processing
 - Data Science
 
-💻 I enjoy building intelligent applications with Python.
+💻 I love building intelligent applications with Python.
 
-🌱 Learning something new every single day.
+🚀 Goal
 
-🎯 Goal
-
-Become a Data Scientist / AI Engineer at a top product company.
+Become an AI Engineer / Data Scientist working on impactful AI products.
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
-```text
-🔹 Machine Learning
-🔹 Deep Learning
-🔹 NLP
-🔹 LLM Applications
-🔹 RAG Pipelines
-🔹 AI Agents
-🔹 Vector Databases
-🔹 Backend Development
-🔹 SQL Analytics
-```
+- 🤖 AI Applications
+- 🧠 LLMs
+- 🔎 RAG Pipelines
+- 📄 PDF Chatbots
+- 🎨 AI Image Generation
+- 📊 Data Analytics
+- ⚡ Backend Development
 
 ---
 
-# ⚡ Tech Stack
-
-## 👨‍💻 Languages
+# 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,sql"/>
@@ -73,7 +64,7 @@ Become a Data Scientist / AI Engineer at a top product company.
 
 ---
 
-## 🌐 Web Development
+# 🌐 Web Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,php"/>
@@ -81,14 +72,14 @@ Become a Data Scientist / AI Engineer at a top product company.
 
 ---
 
-## 🤖 AI / ML
+# 🤖 AI | ML | Data Science
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-red?style=for-the-badge"/>
@@ -103,25 +94,27 @@ Become a Data Scientist / AI Engineer at a top product company.
 # 🛠 Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda,mysql,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,mysql,firebase,linux"/>
+
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-- 🧠 LLMs
-- 🔎 RAG
+- 🧠 Large Language Models
+- 🔎 Retrieval-Augmented Generation
 - 🤖 AI Agents
-- 📊 Data Analytics
-- 📈 Advanced Machine Learning
+- 📊 Machine Learning
+- 📈 Data Science
 - 🗄 SQL
-- ⚙ LangChain
+- ⚡ LangChain
 - 🧩 Vector Databases
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -132,6 +125,8 @@ Become a Data Scientist / AI Engineer at a top product company.
 </p>
 
 ---
+
+# 📊 Most Used Languages
 
 <p align="center">
 
@@ -144,7 +139,9 @@ Become a Data Scientist / AI Engineer at a top product company.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=parm-08&theme=algolia&margin-w=15&margin-h=15&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=parm-08&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
 </p>
 
 ---
@@ -152,7 +149,9 @@ Become a Data Scientist / AI Engineer at a top product company.
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parm-08&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -160,16 +159,38 @@ Become a Data Scientist / AI Engineer at a top product company.
 # 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# 💻 Quote of the Day
+# 💬 Dev Quote
 
 <p align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Random Joke
+
+<p align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Coding Time
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parm-08&theme=tokyonight"/>
 
 </p>
 
@@ -177,7 +198,7 @@ Become a Data Scientist / AI Engineer at a top product company.
 
 # 🎯 Fun Fact
 
-```text
+```cpp
 while(!success)
 {
     Learn();
@@ -193,13 +214,13 @@ while(!success)
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/parmpreet/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/parm-08">
+<a href="https://github.com/parm-08" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
@@ -207,11 +228,14 @@ while(!success)
 
 ---
 
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
 <p align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
-
-*"Code. Learn. Build. Repeat."*
+<i>"Keep Learning • Keep Building • Keep Growing 🚀"</i>
 
 </p>
-````
